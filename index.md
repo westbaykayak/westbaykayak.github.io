@@ -7,3 +7,4 @@ For some they are content to have a gentle local paddle for others the club has 
 
 The club meets every Tuesday at 18.30-20.30 in West Bay, taster sessions are available to those who want to try it out before they join.
 
+![alt text](Sea+Kayak+Sunset.jpg "Logo Title Text 1")
