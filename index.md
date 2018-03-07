@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+Based in the West Bay water sports centre the club has a fleet of kayaks, canoes and sea boats for everyone to use, all equipment is provided and everyone over 12yrs is welcome.  Coach; Paula Bates explained “you don’t have to be particularly fit, you can take it gently or really go for it and use it as a way of getting fit. It’s a great activity, a unique perspective on our beautiful environment and a fun sociable time for everyone. It would be great to have new members to share the fun with”
 
-You can use the [editor on GitHub](https://github.com/westbaykayak/westbaykayak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/westbaykayak/westbaykayak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For some they are content to have a gentle local paddle for others the club has been a spring board to explore the rivers of the world, Head Coach Luke Edwards attributes his high levels of skills to the club; “I learnt to paddle at HCCC as a child and have continued to coach. Because of HCCC I have travelled all over the world exploring rivers and countries, I have been to Uganda and Nepal as well as all over Europe paddling and I’m off to Chile this winter and it all started here”
+The club meets every Tuesday at 18.30-20.30 in West Bay, taster sessions are available to those who want to try it out before they join.
