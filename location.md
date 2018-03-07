@@ -1,1 +1,5 @@
-<iframe width="740" height="740" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.7671062946319585%2C50.70978600160195%2C-2.758147716522217%2C50.71295870223512&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/50.71137/-2.76263&amp;layers=N">View Larger Map</a></small>
+The Club is based on Fishermans Green at West Bay in the Watersports center
+
+![Map](./map.png "Location of West Bay Water Sports center")
+
+[Interactive Map](https://www.openstreetmap.org/?mlat=50.71203&mlon=-2.76303#map=19/50.71203/-2.76303&layers=)
