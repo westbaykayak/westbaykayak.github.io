@@ -6,7 +6,7 @@ We provide all all equipment, you don't need to be particularly fit to start wit
 
 ![Photo of our launch point](Kayak%20Club.jpg "Launching from the pontoon by the boathouse")
 
-The club meets every Tuesday at 6pm in West Bay.
+The club meets every Tuesday at 6pm (aiming to be on the water by 6:30) in West Bay.
 
 A session costs £15 and membership is £40 per year if after a couple of sessions you decide to keep coming.
 
@@ -14,7 +14,7 @@ Usually we paddle on the river learning new skills and having fun. We follow the
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
-Our first river session of 2018 will be on the 10th of April
+Our first river session of 2018 will be on the 10th of April at 6pm (on the water by about 6:30)
 
 Look for our latest news, or contact us on [www.facebook.com/heritagecoastcanoeclub](https://www.facebook.com/heritagecoastcanoeclub/)
 
