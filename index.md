@@ -16,7 +16,6 @@ Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bi
 
 Our first river session of 2018 will be on the 10th of April at 6pm (on the water by about 6:30)
 
-Look for our latest news, or contact us on [www.facebook.com/heritagecoastcanoeclub](https://www.facebook.com/heritagecoastcanoeclub/)
 
 
 ![Photo of the club kaykaing on the sea at sunset](Sea%20Kayak%20Sunset.jpg "Paddling on the sea at West Bay")
