@@ -4,6 +4,8 @@ If you want to try out the sport come along - just bring clothes you don't mind 
 
 We provide all all equipment, you don't need to be particularly fit to start with (you do need to be able to swim 50 meters) and everyone over 12yrs old is welcome.
 
+![Photo of our launch point](Kayak%20Club.jpg "Launching from the pontoon by the boathouse")
+
 The club meets every Tuesday at 6pm in West Bay.
 
 A session costs £15 and membership is £40 per year if after a couple of sessions you decide to keep coming.
