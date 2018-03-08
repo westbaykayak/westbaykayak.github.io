@@ -12,5 +12,7 @@ Usually we paddle on the river learning new skills and having fun. We follow the
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
+Look for our latest news, or contact us on [https://www.facebook.com/heritagecoastcanoeclub/]
+
 
 ![alt text](Sea%20Kayak%20Sunset.jpg "Logo Title Text 1")
