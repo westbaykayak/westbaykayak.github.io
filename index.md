@@ -1,4 +1,4 @@
-We are based in the West Bay water sports centre with a fleet of kayaks, canoes and sea boats for everyone to use.
+We are based in the West Bay water sports centre with a fleet of kayaks, canoes, and sea boats for everyone to use.
 
 If you want to try out the sport come along - just bring clothes you don't mind getting wet, a towel and spare clothes for afterwards
 
