@@ -14,6 +14,8 @@ Usually we paddle on the river learning new skills and having fun. We follow the
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
+Our first river session of 2018 will be on the 10th of April
+
 Look for our latest news, or contact us on [www.facebook.com/heritagecoastcanoeclub](https://www.facebook.com/heritagecoastcanoeclub/)
 
 
