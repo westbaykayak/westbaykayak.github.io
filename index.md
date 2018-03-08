@@ -1,10 +1,16 @@
-Based in the West Bay water sports centre the club has a fleet of kayaks, canoes and sea boats for everyone to use, all equipment is provided and everyone over 12yrs is welcome.
+We are based in the West Bay water sports centre with a fleet of kayaks, canoes and sea boats for everyone to use.
 
-Coach; Paula Bates explained “you don’t have to be particularly fit, you can take it gently or really go for it and use it as a way of getting fit. It’s a great activity, a unique perspective on our beautiful environment and a fun sociable time for everyone. It would be great to have new members to share the fun with”
+If you want to try out the sport come along - just bring clothes you don't mind getting wet, a towel and spare clothes for afterwards
 
-For some they are content to have a gentle local paddle for others the club has been a spring board to explore the rivers of the world, Head Coach Luke Edwards attributes his high levels of skills to the club; “I learnt to paddle at HCCC as a child and have continued to coach. Because of HCCC I have travelled all over the world exploring rivers and countries, I have been to Uganda and Nepal as well as all over Europe paddling and I’m off to Chile this winter and it all started here
+We provide all all equipment, you don't need to be particularly fit to start with (you do need to be able to swim 50 meters) and everyone over 12yrs old is welcome.
 
+The club meets every Tuesday at 6pm in West Bay.
 
-The club meets every Tuesday at 18.30-20.30 in West Bay, taster sessions are available to those who want to try it out before they join.
+A session costs £15 and membership is £40 per year if after a couple of sessions you decide to keep coming.
+
+Usually we paddle on the river learning new skills and having fun. We follow the [BCU sylabus](https://www.britishcanoeing.org.uk/courses/1-star-award) paddle the river - and play some games.
+
+Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
+
 
 ![alt text](Sea%20Kayak%20Sunset.jpg "Logo Title Text 1")
