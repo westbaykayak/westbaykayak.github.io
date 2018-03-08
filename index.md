@@ -15,4 +15,4 @@ Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bi
 Look for our latest news, or contact us on [www.facebook.com/heritagecoastcanoeclub](https://www.facebook.com/heritagecoastcanoeclub/)
 
 
-![alt text](Sea%20Kayak%20Sunset.jpg "Logo Title Text 1")
+![Photo of the club kaykaing on the sea at sunset](Sea%20Kayak%20Sunset.jpg "Paddling on the sea at West Bay")
