@@ -8,7 +8,7 @@ The club meets every Tuesday at 6pm in West Bay.
 
 A session costs £15 and membership is £40 per year if after a couple of sessions you decide to keep coming.
 
-Usually we paddle on the river learning new skills and having fun. We follow the [BCU sylabus](https://www.britishcanoeing.org.uk/courses/1-star-award) paddle the river - and play some games.
+Usually we paddle on the river learning new skills and having fun. We follow the [BCU sylabus](https://www.britishcanoeing.org.uk/courses/1-star-award), paddle the river, and play some games.
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
