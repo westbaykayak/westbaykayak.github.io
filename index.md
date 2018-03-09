@@ -8,7 +8,7 @@ We provide all all equipment, you don't need to be particularly fit to start wit
 
 The club meets every Tuesday at 6pm (aiming to be on the water by 6:30) in West Bay.
 
-A session costs £15 and membership is £45 per year if after a couple of sessions you decide to keep coming.
+A session costs £5 and membership is £45 per year if after a couple of sessions you decide to keep coming.
 
 Usually we paddle on the river learning new skills and having fun. We follow the [BCU sylabus](https://www.britishcanoeing.org.uk/go-canoeing/things-to-do/build-my-skills#star-awards), paddle the river, and play some games.
 
