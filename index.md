@@ -21,8 +21,8 @@ Bring clothes you don't mind getting wet, a wetsuit and wetsuit boots are deial 
 Bring a towel and spare clothes for afterwards - sometimes capsizes happen by accident - and sometimes we practice them.
 
 Be aware that there are risks to kayaking including
- * [Leptospirosis andWeil's Disease](/leptospirosis.pdf)
+ * [Leptospirosis and Weil's Disease](/leptospirosis.pdf)
 
-[Contact Us](/contact) to let us know if you want to come along - especially if you are not a confident swimmer (less than 50 meters) or are unsure if kayaking is for you and we'll try to help.
+Contact us via phone on 01308 862055 our [Contact Form](/contact) to let us know if you want to come along - especially if you are not a confident swimmer (less than 50 meters) or are unsure if kayaking is for you and we'll try to help.
 
 ![Photo of the club kaykaing on the sea at sunset](Sea%20Kayak%20Sunset.jpg "Paddling on the sea at West Bay")
