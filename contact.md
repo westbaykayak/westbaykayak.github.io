@@ -17,7 +17,7 @@
 
 <div class="form-group">
   <div><label>Your message</label></div>
-  <div><textarea name="message" type="text" class="form-control" rows="50" cols="10"></textarea></div>
+  <div><textarea name="message" type="text" class="form-control" rows="80" cols="50"></textarea></div>
 </div>
 <div><input type="submit"  value="Send Message" />    </div>
 </form>       
