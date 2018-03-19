@@ -3,20 +3,21 @@
 
 
 <div class="form-group">
-  <label>Name</label>
-  <input name="name" type="text" class="form-control"/>
+<div>  <label>Name</label>
+</div>
+<div>  <input name="name" type="text" class="form-control"/></div>
 </div>
 <div class="form-group">
-  <label>Email</label>
-  <input name="email" type="text" class="form-control"/>
+  <div><label>Email</label></div>
+  <div><input name="email" type="text" class="form-control"/></div>
 </div>
 
 <input type="hidden" name="*redirect" value="http://www.westbaykayak.co.uk/thanks" />
   
 
 <div class="form-group">
-  <label>Your message</label>
-  <textarea name="message" type="text" class="form-control" ></textarea>
+  <div><label>Your message</label></div>
+  <div><textarea name="message" type="text" class="form-control" ></textarea></div>
 </div>
-<input type="submit" class="btn btn-default" value="Send Message" />    
+<div><input type="submit"  value="Send Message" />    </div>
 </form>       
