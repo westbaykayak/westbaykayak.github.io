@@ -2,7 +2,9 @@
 
 If you want to try out the sport come along - just bring clothes you don't mind getting wet, a towel and spare clothes for afterwards
 
-We provide all all equipment, you don't need to be particularly fit to start with (you do need to be able to swim 50 meters) and everyone over 12yrs old is welcome.
+We provide all all equipment, you don't need to be particularly fit to start with and everyone over 12yrs old is welcome.
+
+[Contact Us](/contact) to let us know if you want to come along - especially if you are not a confident swimmer (less than 50 meters) or are unsure if kayaking is for you and we'll try to help.
 
 ![Photo of our launch point](Kayak%20Club.jpg "Launching from the pontoon by the boathouse")
 
