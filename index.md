@@ -16,7 +16,7 @@ Our first river session of 2018 will be on the 10th of April at 6pm (on the wate
 
 If you want to try out the sport come along
 
-Bring clothes you don't mind getting wet, a wetsuit and wetsuit boots are deial if you have them. Otherwise something comfortable like a tracksuit - trainers may be OK but tall people with big feet wearing trainers may have problems getting into the boat!
+Bring clothes you don't mind getting wet, a wetsuit and wetsuit boots are ideal if you have them. Otherwise something comfortable like a tracksuit - trainers may be OK but tall people with big feet wearing trainers may have problems getting into the boat!
 
 Bring a towel and spare clothes for afterwards - sometimes capsizes happen by accident - and sometimes we practice them.
 
