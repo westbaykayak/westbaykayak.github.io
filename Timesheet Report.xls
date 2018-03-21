@@ -1,0 +1,172 @@
+
+
+
+
+<html>
+<head>
+    <title>Timesheet Report</title>
+    <meta name="decorator" content="none" />
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-excel; charset=UTF-8" />
+</head>
+<body>
+<style>
+    
+                        
+    <!--br
+        {mso-data-placement:same-cell;}
+    -->
+    <!--table
+        {mso-displayed-decimal-separator:"\.";
+            mso-displayed-thousand-separator:"\,";}
+    -->
+
+</style>
+<table class=tableBorder border="1" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<table border="1" cellpadding="3" cellspacing="1" width="100%">
+    <tr class=rowHeader>
+        <td class="colHeaderLink" width="1%"><b>Project</b></td>
+        <td class="colHeaderLink" width="1%"><b>Type</b></td>
+        <td class="colHeaderLink" width="1%"><b>Key</b></td>
+        <td class="colHeaderLink" width="50%"><b>Title</b></td>
+                        <td align="center" width="1%"><b>Date</b></td>
+        <td align="center" width="1%"><b>Username</b></td>
+        <td align="center" width="1%"><b>Time Spent (h)</b></td>
+        <td align="center" width="50%"><b>Comment</b></td>
+    </tr>
+            				<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-5">G4ROAD-5</a></td>
+				<td width=50%>Meeting &amp; sprint planning</td>
+				
+                                				<td align="center" width=1%>13/Mar/18 3:09 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>discussions and planning</td>
+			</tr>
+								<tr  class="rowAlternate"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-5">G4ROAD-5</a></td>
+				<td width=50%>Meeting &amp; sprint planning</td>
+				
+                                				<td align="center" width=1%>15/Mar/18 2:09 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>0.5</td>
+								<td align="center" width=1%>Planning</td>
+			</tr>
+								<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-5">G4ROAD-5</a></td>
+				<td width=50%>Meeting &amp; sprint planning</td>
+				
+                                				<td align="center" width=1%>16/Mar/18 1:05 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>discussions and planning</td>
+			</tr>
+					        				<tr  class="rowAlternate"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-110">G4ROAD-110</a></td>
+				<td width=50%>Manifests - Loyalty Rekey</td>
+				
+                                				<td align="center" width=1%>14/Mar/18 5:03 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>5</td>
+								<td align="center" width=1%>Rekey on all loy bits + testing</td>
+			</tr>
+					        				<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-118">G4ROAD-118</a></td>
+				<td width=50%>Manifests - WWW rekey</td>
+				
+                                				<td align="center" width=1%>15/Mar/18 3:06 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>Research</td>
+			</tr>
+								<tr  class="rowAlternate"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-118">G4ROAD-118</a></td>
+				<td width=50%>Manifests - WWW rekey</td>
+				
+                                				<td align="center" width=1%>16/Mar/18 12:09 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>preparation</td>
+			</tr>
+					        				<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-124">G4ROAD-124</a></td>
+				<td width=50%>Handle flyway migrations for schemas having the same name</td>
+				
+                                				<td align="center" width=1%>13/Mar/18 3:07 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>2</td>
+								<td align="center" width=1%>Code modifications and pushed everything</td>
+			</tr>
+					        				<tr  class="rowAlternate"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-125">G4ROAD-125</a></td>
+				<td width=50%>Flyway Jenkins Changes</td>
+				
+                                				<td align="center" width=1%>12/Mar/18 1:05 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>Investigation</td>
+			</tr>
+								<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-125">G4ROAD-125</a></td>
+				<td width=50%>Flyway Jenkins Changes</td>
+				
+                                				<td align="center" width=1%>13/Mar/18 2:07 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>Investigation</td>
+			</tr>
+								<tr  class="rowAlternate"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-125">G4ROAD-125</a></td>
+				<td width=50%>Flyway Jenkins Changes</td>
+				
+                                				<td align="center" width=1%>14/Mar/18 12:03 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>1</td>
+								<td align="center" width=1%>Comms + discussions</td>
+			</tr>
+								<tr  class="rowNormal"  >
+						        <td width="1%"><a href="https://issues.lolacloud.com/browse/G4ROAD">G4ROAD</a></td>
+    	        <td width=1%>Task</td>
+				                <td width=1%><a href="https://issues.lolacloud.com/browse/G4ROAD-125">G4ROAD-125</a></td>
+				<td width=50%>Flyway Jenkins Changes</td>
+				
+                                				<td align="center" width=1%>15/Mar/18 2:02 PM</td>
+				<td align="center" width=1%>Alex Dascal</td>
+				<td align="center" width=1%>2</td>
+								<td align="center" width=1%>Looked into solutions for PR blocking</td>
+			</tr>
+					        <tr class=rowHeader>
+        <td class="colHeaderLink" width="1%"><b>Total</b></td>
+        <td class="colHeaderLink" width="1%">&nbsp;</td>
+        <td class="colHeaderLink" width="1%">&nbsp;</td>
+        <td class="colHeaderLink" width="1%">&nbsp;</td>
+                        <td class="colHeaderLink" width="1%">&nbsp;</td>
+        <td class="colHeaderLink" width="1%">&nbsp;</td>
+        <td align="center" width="1%">16.5</td>
+        <td class="colHeaderLink" width="1%">&nbsp;</td>
+    </tr>
+</table>
+</td></tr></table>
+    
+
+</body>
+</html>
