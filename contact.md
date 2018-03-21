@@ -9,7 +9,7 @@
 </div>
 <div class="form-group">
   <div><label>Email</label></div>
-  <div><input name="email" type="text" size="50"  class="form-control" required pattern=".*@*.">/></div>
+  <div><input name="email" type="email" size="50"  class="form-control" required pattern=".*@*."/></div>
 </div>
 
 <input type="hidden" name="*redirect" value="http://www.westbaykayak.co.uk/thanks" />
