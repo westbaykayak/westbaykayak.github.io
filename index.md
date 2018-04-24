@@ -12,8 +12,6 @@ Usually we paddle on the river learning new skills and having fun. We follow the
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
-Our first river session of 2018 will be on the 10th of April at 6pm (on the water by about 6:30)
-
 If you want to try out the sport come along
 
 Bring clothes you don't mind getting wet, a wetsuit and wetsuit boots are ideal if you have them. Otherwise something comfortable like a tracksuit - trainers may be OK but tall people with big feet wearing trainers may have problems getting into the boat!
