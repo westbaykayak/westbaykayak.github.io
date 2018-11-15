@@ -1,9 +1,9 @@
 # Risk Assessment : River Brit Pool #
 
 
-This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy and falls withiong the BCU definition of "Very Sheltered Water"
+This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy and falls within the BCU definition of "Very Sheltered Water"
 
-River Brit, launching from pontoon and travelling before the first bend, staying within areas where bankside egress is managable within 50m 
+River Brit, launching from pontoon and travelling before the first bend, staying within areas where bankside egress is manageable within 50m 
 
 BCU Level 1 Coach or above qualified staff.
 
