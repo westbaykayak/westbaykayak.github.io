@@ -98,10 +98,13 @@ Members must also refrain from discussing any serious incident on social media u
 
 ## Discipline ## 
 
-Any behaviour which falls substantially short of the [code of conduct](/policies/code-of-conduct) to be reviewed by the committee – via email or if needed by a meeting. A member may be warned, or if the problem is severe may be immediately banned from the club.
+From The consitution
 
-In such case the member (or thier parent/guardian if under 18) will be informed in writing and has the right to appeal in writing and in person to the committee.
+9.1 All complaints regarding the behaviour of members should be submitted in writing to the Secretary. The General Committee will meet to hear complaints within 14 days of a complaint being lodged. The General Committee has the power to take appropriate disciplinary action including the termination of membership.
 
+9.2 The outcome of a disciplinary hearing should be notified in writing to the person who lodged the complaint and the member against whom the complaint was made within 7 days of the hearing.
+
+9.3 There will be the right of appeal to the General Committee following the disciplinary action being announced. The General Committee should consider the appeal within 14 days of the Secretary receiving the appeal.
 
 ## Use of Club Premises / Equipment ##
 

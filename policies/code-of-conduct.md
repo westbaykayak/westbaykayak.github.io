@@ -27,13 +27,7 @@ It is the policy of Heritage Coast Canoe Club that all paddlers, volunteers, coa
  * Use correct and proper language at all times.
 
 
-Unnacceptable behaviour should be reported to the comittee who will discuss the issue and may either
- * Take no further action
- * Warn the member that behaviour was unacceptable and must not be repeated
- * Ban the member (for a specified period or permanently)
+## Discipline Procedure ##
 
-The member affected may appeal and present further information to the comittee after which a final decision will be made.
-
-Any decision will be comunicated in writing.
-
+See the [Discipline section of the constitution](./constitution#9-discipline-and-appeals)
 
