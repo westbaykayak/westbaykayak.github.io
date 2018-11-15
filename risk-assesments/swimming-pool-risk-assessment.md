@@ -2,6 +2,8 @@
 
 Club sessions in the swimming pool are a great time to practice rolling and other skills in a warm and relatively safe enviroment.
 
+BCU Level 1 Coach or above qualified staff.
+
 Nearest hospital / A&E: Dorchester   01305 251150 
 
 Mobile Phone Reception : Good
