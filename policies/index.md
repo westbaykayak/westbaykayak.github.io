@@ -1,3 +1,5 @@
+
+
 Heritage Coast Canoe Club is affliated to [British Canoeing](https://www.britishcanoeing.org.uk/) and we adopt thier policies to support our day to day operations.
 
 
@@ -10,6 +12,7 @@ Heritage Coast Canoe Club is affliated to [British Canoeing](https://www.british
 ## Club Policies ##
 
  * [Constitution](./constitution)
+ * [Membersip and Session Fees](./fees)
  * [Health and Safety](/policies/hccc-health-and-safety)
  * [Child Protection](/policies/child-protection-policy)
  * [Code of Conduct](/policies/code-of-conduct)
