@@ -26,7 +26,7 @@ To support our Health and Safety policy statement we are committed to the follow
  * Correctly use all equipment provided by the club.
  * Not interfere with or misuse anything provided for your health, safety or welfare.
 
-##Club Health and Safety Officer ##
+## Club Health and Safety Officer ##
 
 Sean Burlington
 
