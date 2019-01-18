@@ -1,5 +1,7 @@
 # Risk Assessments #
 
+## DRAFT : Document pending Committee review ##
+
 All Club sessions and outings must have a risk assessment completed and approved by the committee
 
 Risk assessment is concerned with the identification of significant hazards which exist, and the reasonable precautions (CONTROLS) that are subsequently put in place, in an effort to minimise risk to participants, clients, staff and the public. 
