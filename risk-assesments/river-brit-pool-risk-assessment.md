@@ -1,5 +1,6 @@
 # Risk Assessment : River Brit Pool #
 
+## DRAFT : Document pending Committee review ##
 
 This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy and falls within the BCU definition of "Very Sheltered Water"
 

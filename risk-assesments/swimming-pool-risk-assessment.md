@@ -1,5 +1,7 @@
 # Risk Assessement Swimming Pool #
 
+## DRAFT : Document pending Committee review ##
+
 Club sessions in the swimming pool are a great time to practice rolling and other skills in a warm and relatively safe enviroment.
 
 BCU Level 1 Coach or above qualified staff.

@@ -1,5 +1,6 @@
 # Risk Assessment : River Brit #
 
+## DRAFT : Document pending Committee review ##
 
 River Brit, launching from pontoon and travelling as far as weir. 
 

@@ -1,6 +1,8 @@
 
 # Equality Policy #
 
+## DRAFT : Document pending Committee review ##
+
 ## What is Sports Equality? ##									   
 Sports Equality is about fairness in sport; equality of access; recognising inequalities and taking steps to address them. It involves changing the culture and structure of sport to ensure it becomes equally accessible to all members of society and ensuring that everyone has the opportunity to realise their talent and full potential. 
 

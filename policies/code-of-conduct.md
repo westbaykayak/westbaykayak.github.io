@@ -1,5 +1,6 @@
 # Code of Conduct #
 
+## DRAFT : Document pending Committee review ##
 
 It is the policy of Heritage Coast Canoe Club that all paddlers, volunteers, coaches and parents show respect and understanding for each other and conduct themselves in a way that reflects the principles of the Club. The aim is for all paddlers to improve performance and have fun. Everyone involved in the Club should abide by the Club Rules and Policies.
 

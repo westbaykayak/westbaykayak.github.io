@@ -1,5 +1,7 @@
+
 # Club Standard Operating Procedures #
 
+## DRAFT : Document pending Committee review ##
 
  **Club Name** Heritage Coast Canoe Club
 

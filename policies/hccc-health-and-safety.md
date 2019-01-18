@@ -1,5 +1,7 @@
 ## Health and Safety Policy Statement ##
 
+## DRAFT : Document pending Committee review ##
+
 Heritage Coast Canoe Club is strongly committed to encouraging our members to take part, but the health, well-being and safety of each individual is always our paramount concern.  We recommend levels of training dependent on age and ability, and expect members to participate within these boundaries.
 
 ## Health and Safety Policy ##

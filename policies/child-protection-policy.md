@@ -1,5 +1,7 @@
 # Child Protection Policy #
 
+## DRAFT : Document pending Committee review ##
+
 Heritage Coast Canoe Club is fully committed to safeguarding the well being of its members.
 All members should show respect and understanding for the rights, safety and welfare of others, and conduct themselves in a way that reflects the principles of the Club.
 

@@ -1,5 +1,6 @@
 # Changing Room Policy #
 
+## DRAFT : Document pending Committee review ##
 
 See also [British Canoing Guidance](https://www.britishcanoeing.org.uk/uploads/documents/G28-Changing-Room-Guidance-270716.pdf)
 
