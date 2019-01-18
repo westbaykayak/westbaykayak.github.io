@@ -14,7 +14,7 @@ The club meets every Tuesday at 6pm (aiming to be on the water by 6:30) in West 
 
 A session costs £5 to members, £10 to non-members, and membership is £45 per year. see [Membersip and Session Fees](./policies/fees) for more details
 
-Usually we paddle on the river learning new skills and having fun. We follow the [BCU sylabus](https://www.britishcanoeing.org.uk/go-canoeing/things-to-do/build-my-skills#star-awards), paddle the river, and play some games.
+Usually we paddle on the river learning new skills and having fun. We follow the [BC sylabus](https://www.britishcanoeing.org.uk/go-canoeing/things-to-do/build-my-skills#star-awards), paddle the river, and play some games.
 
 Sessions last a couple of hours and are usualy quite relaxed (and sometimes a bit more energetic) catering for the skill level of those present.
 
@@ -22,7 +22,7 @@ If you want to try out the sport come along
 
 Bring clothes you don't mind getting wet, a wetsuit and wetsuit boots are ideal if you have them. Otherwise something comfortable like a tracksuit - trainers may be OK but tall people with big feet wearing trainers may have problems getting into the boat!
 
-Bring a towel and spare clothes for afterwards - sometimes capsizes happen by accident - and sometimes we practice them.
+Bring a towel and spare clothes for afterwards - sometimes capsizes happen by accident - and sometimes we practise them.
 
 Be aware that there are risks to kayaking including
  * [Leptospirosis and Weil's Disease](/leptospirosis.pdf)

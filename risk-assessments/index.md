@@ -6,7 +6,7 @@ All Club sessions and outings must have a risk assessment completed and approved
 
 Risk assessment is concerned with the identification of significant hazards which exist, and the reasonable precautions (CONTROLS) that are subsequently put in place, in an effort to minimise risk to participants, clients, staff and the public. 
 
-see [BCU Safety Guidance](https://www.britishcanoeing.org.uk/uploads/commonUploads/British-Canoeing-Safety-Guidance.pdf)  pages 18-21 for more guidance on risk assessments
+see [BC Safety Guidance](https://www.britishcanoeing.org.uk/uploads/commonUploads/British-Canoeing-Safety-Guidance.pdf)  pages 18-21 for more guidance on risk assessments
 
 
 
@@ -37,6 +37,6 @@ This would include the risks generic to the type of  paddlesport undertaken in r
 ## Club Assessments ##
 
  * [River Brit](./river-brit-risk-assessment)
- * [River Brit Pool](./river-brit-pool-risk-assessment) for sessions limited to the bit of the river nearest the boathouse
+ * [River Brit Basin](./river-brit-basin-risk-assessment) for sessions limited to the bit of the river nearest the boathouse
  * [Swimming Pool](./swimming-pool-risk-assessment) for sessions limited to the bit of the river nearest the boathouse
 

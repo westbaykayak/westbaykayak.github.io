@@ -1,4 +1,4 @@
-# Risk Assessment : River Brit Pool #
+# Risk Assessment : River Brit Basin #
 
 ## DRAFT : Document pending Committee review ##
 
@@ -23,7 +23,7 @@ Mobile Phone Reception : Good
 | Fisherfolk | Whole group, harm from hooks, reputation damage | Brief members to stay away even when it is hard to see lines out | Y |  |
 | Swans | Whole group | Safety brief, avoid swans | Y | | 
 | Entrapment during capsize | Whole group | Coaches to run through capsize drill. <br />Equipment regularly maintained<br />Staff to check students and equipment before launching | Y | Participants must be at competent level for activity. | 
-| Hypothermia | Whole group | Advised on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early | Y | |
+| Hypothermia | Whole group | Advise on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early | Y | |
 | Pollution and water Quality | Whole group | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor
 conditions |
 

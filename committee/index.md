@@ -2,18 +2,17 @@
 
 
 
-|   Name   | Position | Trustee / Executive | Voting rights |
-|----------|----------|---------|---------------|
-| Joy Edwards | Chair | Yes | Yes |
-| Siobahn Baxter | Secretary | Yes | Yes | 
-| Stephen Potter | Treasurer | Yes | Yes | 
-| Paula Bates | Welfare officer | Yes | Yes |
-| Simon Baxter | General Committee | No | Yes | 
-| Sean Burlington | General Committee | No | Yes |
-| Paula Bates , John de Bank, Luke Edwards | Coaches | No | One collective Vote | 
-| Kate Wiscombe | Co-opted | No | No | 
-| Kath Ailward  | Co-opted | No | No | 
-| Don Fremantle | Co-opted | No | No | 
+|   Name   | Position |
+|----------|----------|
+| Joy Edwards | Chair |
+| Siobhan Baxter | Secretary | 
+| Stephen Potter | Treasurer | 
+| Paula Bates | Welfare officer |
+| Simon Baxter | General Committee |
+| Sean Burlington | General Committee |
+| Paula Bates , John de Bank, Luke Edwards | Coach |
+| Kate Wiscombe | Co-opted | 
+| Don Fremantle | Co-opted | 
 
 
 

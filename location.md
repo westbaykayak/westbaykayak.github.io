@@ -1,4 +1,4 @@
-The Club is based on Fishermans Green at West Bay in the Watersports center
+The Club is based on Fishermans Green at West Bay in the Watersports Centre
 
 ![Map](map.png "Location of West Bay Water Sports center")
 

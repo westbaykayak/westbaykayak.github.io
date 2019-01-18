@@ -17,7 +17,7 @@
  
 Heritage Coast Canoe Club  
 c/o Joy Edwards  
-Post Office Cottage  
+The Old Post Office  
 Hooke  
 Beaminster  
 DT8 3PD  
@@ -76,9 +76,8 @@ The boathouse and shed have only one door each - in case of fire - use this exit
 Fire extinguishers are mounted in the boatshed, and maintained by the Safety officer
 
 
-Where are the Emergency contact details (for all members) kept? 
+To be confirmed : **Where are the Emergency contact details (for all members) kept?**
 
-Many clubs keep an accessible spread sheet of all contact details in case of an emergency
 
 
 ## Emergency Procedures ## 
@@ -100,7 +99,7 @@ Members must also refrain from discussing any serious incident on social media u
 
 ## Discipline ## 
 
-From The consitution
+From The constitution
 
 9.1 All complaints regarding the behaviour of members should be submitted in writing to the Secretary. The General Committee will meet to hear complaints within 14 days of a complaint being lodged. The General Committee has the power to take appropriate disciplinary action including the termination of membership.
 
@@ -111,9 +110,9 @@ From The consitution
 ## Use of Club Premises / Equipment ##
 
 
-The boathouse is normally locked apart fropm regular Tuesday evening sessions in teh summer when it is open at the start and end of each session. When everypone is on teh water the boathouse will be locked.
+The boathouse is normally locked apart fro pm regular Tuesday evening sessions in the summer when it is open at the start and end of each session. When everyone is on the water the boathouse will be locked.
 
-The boathouse will be opend for short perionds to load/unload kit for pool sessions or other events.
+The boathouse will be opened for short periods to load/unload kit for pool sessions or other events.
 
 Keys are held by coaches (Paula, and Luke) and by Simon Baxter 
 
@@ -121,19 +120,19 @@ Equipment will be audited annually (under the responsibility of the Safety Offic
 
 A maintenance logbook will be stored at the boathouse detailing checks, faults known, repairs made etc
 
-Additional safety checks will be carried out as needed, any faulty equipment to be clearly marked, logged in the maintenance book, and reported to teh safety officer.
+Additional safety checks will be carried out as needed, any faulty equipment to be clearly marked, logged in the maintenance book, and reported to the safety officer.
 
 
 Equipment can be used by all club members during official club sessions or outings.
 
-Equipment may be used at other times for non-club events if agreed in advance by the coaches. This is limited to one set of equipment (ie one boat, paddle, BA, spraydeck, helmet, cag) per club member for personal use. It is subject to availabiliuty of keyholders for access to the boathouse.
+Equipment may be used at other times for non-club events if agreed in advance by the coaches. This is limited to one set of equipment (ie one boat, paddle, BA, spraydeck, helmet, cag) per club member for personal use. It is subject to availability of keyholders for access to the boathouse.
 
-Personal equipment may be stored at the boathouse if agreed by the committee, the club can take no responsibility for such equipment, does not cover it in insurabce, and cannot garuntee it wont get used by other members. Acccess to this will be at normal sessions or by arrangment with a keyholder.
+Personal equipment may be stored at the boathouse if agreed by the committee, the club can take no responsibility for such equipment, does not cover it in insurance, and cannot guarantee it wont get used by other members. Access to this will be at normal sessions or by arrangement with a keyholder.
 
 
 ## Safeguarding ##
 
-Non members visiting the club must not enter the boathouse unsupervised or while there are children changing in the boathouse (this does not apply to parents/guardians of the chioldren changing).
+Non members visiting the club must not enter the boathouse unsupervised or while there are children changing in the boathouse (this does not apply to parents/guardians of the young people changing).
 
 Children will not be permitted to leave the centre without the knowledge or permission of the Coach.
 
