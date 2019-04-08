@@ -40,16 +40,32 @@ see [HCCC Health and Safety Policy](/policies/hccc-health-and-safety)
 
 ## Start each Session ##
 
- * Session lead must check the risk assessment
+Session lead should 
+
+ * check the risk assessment
  * unlock the boathouse
  * start sign in sheet 
- * First aider names to be posted 
- * Everyone who attends must sign in
- 
+ * post first aider names 
+ * check First aiders are on site and equiped
+ * check coaches have suitable rescue and care equipment
+ * check coaches are assiged duties within the remit agreed by the club committee 
+ * ensure everyone who attends signs in
+ * ensure safe handling of boats - encourage 2 persons per boat
+
+## Safety Brief ##
+ * review plan for the session
+ * ask about any health issues
+ * provide location of assembly point
+ * identify first aiders
+ * advise on safe handling
+ * request paddlers to stay within reasonable distance of coach
+ * explain any signals needed for the session 
+ * ensure everyone knows to shout "capsize" and raft up 
 
 ## End of each session ##
 
  * check everyone is safely off the water
+ * supervise under 18s until responsibiity is passed to thier recognised adult
  * all kit is properly stored
  * any damaged kit is properly marked and the committee is informed
  * check everyone is off the site (review sign in sheet)

@@ -4,9 +4,8 @@
 
 River Brit, launching from pontoon and travelling as far as weir. 
 
-BCU Level 2 Coach or above qualified staff.
 
-The river must not be paddled when the gate at the far south of the river is open into the harbour. 	
+The river must not be paddled when the gate at the far south of the river is open into the harbour.
 
 Nearest hospital / A&E: Dorchester   01305 251150 
 
@@ -24,7 +23,6 @@ Mobile Phone Reception : Good
 | Small weir and rapids|  Whole group  | Helmets must be worn or weir avoided. Inspection of the weir must take place before activity takes place. <br />Members must stay well away of weir/ gate at the far south of the river. | Y  | 
 | Entrapment during capsize | Whole group | Coaches to run through capsize drill. <br />Equipment regularly maintained<br />Staff to check students and equipment before launching | Y | Participants must be at competent level for activity. | 
 | Hypothermia | Whole group | Advised on the correct clothing to wear. <br />Adjustment to clothing as required | Y | |
-| Pollution and water Quality | Whole group | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor
-conditions |
+| Pollution and water Quality | Whole group | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
 
 

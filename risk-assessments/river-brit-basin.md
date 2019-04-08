@@ -2,13 +2,11 @@
 
 ## DRAFT : Document pending Committee review ##
 
-This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy and falls within the BCU definition of "Very Sheltered Water"
+This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy.
 
 River Brit, launching from pontoon and travelling before the first bend, staying within areas where bankside egress is manageable within 50m 
 
-BCU Level 1 Coach or above qualified staff.
-
-The river must not be paddled when the gate at the far south of the river is open into the harbour. 	
+The river must not be paddled when the gate at the far south of the river is open into the harbour.
 
 Nearest hospital / A&E: Dorchester   01305 251150 
 
