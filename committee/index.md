@@ -19,6 +19,7 @@
 ## Minutes ## 
 
 
+ * [Committee 15/01/19](./minutes/general-committee-2019-01-15.md)
  * [Committee 12/10/18](./minutes/general-committee-2018-10-11.md)
  * [AGM 21/08/2018](./minutes/HCCC AGM minutes - 210818.docx)
  * [Committee 04/07/18](./minutes/HCCC minutes - 040718.docx)

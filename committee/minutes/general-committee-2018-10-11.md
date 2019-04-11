@@ -93,7 +93,7 @@ Confusion remains as the club has 2 pages, it was agreed to make the Heritage Co
 
 
 
-### AOB###
+### AOB ###
 
 Kath has kindly donated a XL neoprene spray deck - thank you Kath 
 
