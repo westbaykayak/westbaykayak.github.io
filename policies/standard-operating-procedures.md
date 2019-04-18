@@ -36,6 +36,17 @@ see [HCCC Health and Safety Policy](/policies/hccc-health-and-safety)
   * Ensure coaches are available 
   * Ensure keyholders are available
   * The committee must be informed of and be given time to approve (or refuse)
+  * check weather before session 
+
+Conditions - whole group, 
+existing control - check weather before session, reconsider location above force 4/5 kayak, force 3/4 canoe based on group ability.
+are these enough - Y
+further prevention - water flow: visual - relocate/cancel session is too strong a current.
+
+
+
+
+
 
 
 ## Start each Session ##
@@ -51,13 +62,15 @@ Session lead should
  * check coaches are assiged duties within the remit agreed by the club committee 
  * ensure everyone who attends signs in
  * ensure safe handling of boats - encourage 2 persons per boat
+ * check boastshed floor for slippyness, rectify if possible, otherwise ensure people are aware
 
 ## Safety Brief ##
  * review plan for the session
  * ask about any health issues
  * provide location of assembly point
  * identify first aiders
- * advise on safe handling
+ * advise on safe handling - encourage 2 people per boat
+ * stronger members to help especially with getting boats (un)racked as well as between wall and pontoon 
  * request paddlers to stay within reasonable distance of coach
  * explain any signals needed for the session 
  * ensure everyone knows to shout "capsize" and raft up 
@@ -65,6 +78,7 @@ Session lead should
 ## End of each session ##
 
  * check everyone is safely off the water
+ * empty boats outside shed - ensure excessive water des not collect in shed
  * supervise under 18s until responsibiity is passed to thier recognised adult
  * all kit is properly stored
  * any damaged kit is properly marked and the committee is informed
@@ -83,6 +97,8 @@ All coaches are first aid qualified (John and Paula)
 The names first aiders on duty will be posted on the wall of the boathouse for each session.
 
 As a small club it will always be easy to find the first aider on duty.
+
+
 
 
 ## Fire & Evacuation ##

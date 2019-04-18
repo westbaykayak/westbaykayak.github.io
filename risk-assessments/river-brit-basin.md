@@ -22,7 +22,5 @@ Mobile Phone Reception : Good
 | Swans | Whole group | Safety brief, avoid swans | Y | | 
 | Entrapment during capsize | Whole group | Coaches to run through capsize drill. <br />Equipment regularly maintained<br />Staff to check students and equipment before launching | Y | Participants must be at competent level for activity. | 
 | Hypothermia | Whole group | Advise on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early | Y | |
-| Pollution and water Quality | Whole group | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor
-conditions |
-
-
+| Pollution and water Quality | Whole group | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
+|Entrapment under pontoon | Drowining | wear bouyancy aid when on pontoon or on water | | avoid overcrowding on pontoon, consider placing assistants (ideally FRST trained) on pontoon during launch and recovery |
