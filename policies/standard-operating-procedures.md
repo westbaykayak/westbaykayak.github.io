@@ -38,10 +38,7 @@ see [HCCC Health and Safety Policy](/policies/hccc-health-and-safety)
   * The committee must be informed of and be given time to approve (or refuse)
   * check weather before session 
 
-Conditions - whole group, 
-existing control - check weather before session, reconsider location above force 4/5 kayak, force 3/4 canoe based on group ability.
-are these enough - Y
-further prevention - water flow: visual - relocate/cancel session is too strong a current.
+
 
 
 
