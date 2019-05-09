@@ -7,22 +7,21 @@
 
  **Affiliation Type** Senior Club with a Youth Section
 
- **Club Chair** Joy Edwards
+ **Club Chair** Vacant
 
- **Number of members** 30 ?
+ **Number of members** 30 
 
   The club is open to the public.
 
 ## Contact Details ## 
  
 Heritage Coast Canoe Club  
-c/o Joy Edwards  
-The Old Post Office  
-Hooke  
-Beaminster  
-DT8 3PD  
- 
-<heritagecoast.cc@gmail.com>
+Fisherman's Green
+West Bay
+Bridport
+DT6 4EL 
+
+<info@westbaykayak.co.uk>
 
 
 ## Health and Safety Safety Policy ##

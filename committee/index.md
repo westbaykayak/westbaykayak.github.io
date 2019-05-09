@@ -4,7 +4,6 @@
 
 |   Name   | Position |
 |----------|----------|
-| Joy Edwards | Chair |
 | Siobhan Baxter | Secretary | 
 | Stephen Potter | Treasurer | 
 | Paula Bates | Welfare officer |

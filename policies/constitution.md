@@ -4,11 +4,11 @@
 
 ## 1. Title  ##
 
-1.1 The Organisation shall be called Heritage Coast Canoe Club , hereafter to be referred to as "the Organisation" and shall be affiliated to the British Canoe Union (Governing Body) and is governed by the laws of England and Wales.
+1.1 The Organisation shall be called Heritage Coast Canoe Club , hereafter to be referred to as "the Organisation" and shall be affiliated to British Canoeing and is governed by the laws of England and Wales.
 
 ## 2. Objects ## 
 
-2.1The promotion of community participation in healthy recreation, for the benefit of the inhabitants of West Dorset and the public generally, by the provision of facilities for kayaking and canoeing
+2.1 The promotion of community participation in healthy recreation, for the benefit of the inhabitants of West Dorset and the public generally, by the provision of facilities for kayaking and canoeing
 
 ## 3. Membership ##
 
@@ -37,12 +37,10 @@ These are:
 
 5.1 The Officers of the Organisation shall be as follows:
 
- * President
  * Chairperson	
  * Secretary
  * Treasurer	
 
-Above are Executive Officers
 
 ## 6 Election of officers ##
 
@@ -52,7 +50,7 @@ Above are Executive Officers
 
 ## 7 General Committee ##
 
-7.1 The affairs of the Organisation shall be controlled by a General Committee comprising the Executive Officers of the Organisation and two other Members elected from, and by, the Full Members of the Organisation at the Annual General Meeting. The General Committee shall meet at agreed intervals and not less than four times per year, and will be convened by the secretary. Persons under the age of 18 years cannot serve as trustees or be appointed to the General Committee.
+7.1 The affairs of the Organisation shall be controlled by a General Committee comprising the Officers of the Organisation and other Members elected from, and by, the Full Members of the Organisation at the Annual General Meeting. The General Committee shall meet at agreed intervals and not less than four times per year, and will be convened by the secretary. Persons under the age of 18 years cannot serve as trustees or be appointed to the General Committee.
 
 7.2 The duties of the General Committee shall be:
 
@@ -63,7 +61,7 @@ Above are Executive Officers
 
   <li>To co-opt additional members onto the Committee as the Committee feels this is necessary. Co-opted members shall not be entitled to a vote on the Committee.</li>
 
-  <li>To make decisions on the basis of a simple majority vote. In the case of equal votes, the Chairperson shall be entitled to an additional casting vote. At least two general committee members must be present for business to be agreed. </li>
+  <li>To make decisions on the basis of a simple majority vote. In the case of equal votes, the Chairperson shall be entitled to an additional casting vote. At least 50% of committee members must be present for business to be agreed. </li>
 
   <li>The general committee will be responsible for disciplinary hearings of members who infringe club rules / regulations / constitution. The general committee will be responsible for taking any action of suspension or discipline following such hearings.</li>
 </ol>
@@ -81,7 +79,7 @@ Above are Executive Officers
 
  <li>Receive the annual report of the Committee from the Secretary.</li>
 
- <li>Elect the Officers of the Club i.e. President; Chairperson; Secretary; Treasurer and other General Committee Members.</li>
+ <li>Elect the Officers of the Club and other General Committee Members.</li>
 
  <li>Review subscription rates and agree them for the forthcoming year.</li>
 
