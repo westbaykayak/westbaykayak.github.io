@@ -11,7 +11,7 @@
 | Sean Burlington | General Committee |
 | Paula Bates , John de Bank, Luke Edwards | Coach |
 | Kate Wiscombe | Co-opted | 
-| Don Fremantle | Co-opted | 
+| Don Freestone | Co-opted | 
 
 
 
