@@ -12,6 +12,8 @@ We provide all all equipment, you don't need to be particularly fit to start wit
 
 The club meets every Tuesday at 6pm (aiming to be on the water by 6:30) in West Bay.
 
+<p style="color : red; font-weight: bold;">New Season for 2019 now started - new members Welcome!</p>
+
 A session costs £5 to members, £10 to non-members, and membership is £45 per year. see [Membersip and Session Fees](./policies/fees) for more details
 
 Usually we paddle on the river learning new skills and having fun. We follow the [BC sylabus](https://www.britishcanoeing.org.uk/go-canoeing/things-to-do/build-my-skills#star-awards), paddle the river, and play some games.
