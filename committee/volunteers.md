@@ -70,8 +70,8 @@ Siobhan Baxter
 
 Trained in safety and rescue 
 
-Kate
-Kath
-Sophie
-Simon Baxter
+* Kate Wiscombe
+* Kath Ailward
+* Sophie Jarvis
+* Simon Baxter
 
