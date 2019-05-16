@@ -54,9 +54,13 @@ Kieran has started training as a coach and the club assessed remit is on the riv
 
 ### Sean Burlington ###
 First Aid (2 days), safeguarding training, VHF licenced
+
 Sean has trained as Sea Kayak Leader and is working towards assessment
+
 Sean has also started training as a coach 
+
 The remit for a qualified sea Kayak Leader is to take people out to sea in winds of up to Force 4. 
+
 While working towards qualification the club will review a sensible remit based on experience and ability - currently this is to take out paddlers at West Bay with suitable experience in conditions with windspeeds for Force 2 or below, good visibility, and minimal onshore swell. On the river Brit beginners in the Basin and competent paddlers as far as the Brewery. 
 
 
