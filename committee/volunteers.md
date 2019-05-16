@@ -4,7 +4,7 @@
 The club relies on volunteers to run events in addition to the committee
 
 
-See the British Canoeing Environmental Definitions & Deployment Guidance for Instructors, Coaches & Leaders document in BC's (Guidance Documents)[https://www.britishcanoeingawarding.org.uk/guidance-documents/]
+See the British Canoeing Environmental Definitions & Deployment Guidance for Instructors, Coaches & Leaders document in BC's [Guidance Documents](https://www.britishcanoeingawarding.org.uk/guidance-documents/)
 
 HCCC is working towards best practice in this and other areas of club governance but members should note that some 
 
