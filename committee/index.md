@@ -5,12 +5,10 @@
 |   Name   | Position |
 |----------|----------|
 | Siobhan Baxter | Secretary | 
-| Stephen Potter | Treasurer | 
 | Paula Bates | Welfare officer |
 | Simon Baxter | General Committee |
 | Sean Burlington | General Committee |
-| Paula Bates , John de Bank, Luke Edwards | Coach |
-| Kate Wiscombe | Co-opted | 
+| Paula Bates , John de Bank | Coach |
 | Don Freestone | Co-opted | 
 
 
