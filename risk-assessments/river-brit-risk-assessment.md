@@ -7,7 +7,13 @@ River Brit, launching from pontoon and travelling as far as weir.
 
 The river must not be paddled when the gate at the far south of the river is open into the harbour.
 
-Nearest hospital / A&E: Dorchester   01305 251150 
+
+Helmets should be worn when
+ * walking over boat raft 
+ * Playing games including canoe polo where
+accidental contact may be made
+ * during rescue practice
+ * seal launching from the bank
 
 Mobile Phone Reception : Good
 
