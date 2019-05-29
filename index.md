@@ -1,8 +1,6 @@
 ﻿---
 layout: default
-title: Welcome
-pdf: true
----
+title: Welcome---
 
 We are based in the West Bay water sports centre with a fleet of kayaks, canoes, and sea boats for everyone to use.
 
