@@ -1,31 +1,25 @@
-# Risk Assessment : River Brit Basin #
+# Risk Assessment : River Brit  #
 
 ## DRAFT : Document pending Committee review ##
 
-This assessment covers sessions which are limited to the bit of the river closest to the boathouse where egress is easy.
+The section of the river closest to the boathouse where egress is easy as far as the first bend is "very Sheltered water" and is the area most suitable for complete beginners.
 
-River Brit, launching from pontoon and travelling before the first bend, staying within areas where bankside egress is manageable within 50m 
-
-The river must not be paddled when the gate at the far south of the river is open into the harbour.
-
-Helmets should be worn when
- * walking over boat raft 
- * Playing games including canoe polo where
-accidental contact may be made
- * during rescue practice
+Beyond the first bend there are sections whjere egress is impossible/difficult and this part of the river will need a group with competent deep water rescue ability.
 
 
-Mobile Phone Reception : Good
 
 
-| Description of Hazard             | Potential Harm |  Existing controls| Are these enough? | Further Prevention and controls to reduce Risk | 
-|-----------------------            |--------------------                           |-------------------|-------------------|------------------------|
-| Injury handling boats onto water  |  Whole group   | Members to be briefed on safe handling before moving any boats.<br /> Coaches and experienced members to supervise. | Y |   |
-| Slips, trips, and falls           |  Whole group   | Clean pontoon and steps, safety brief, advise members on appropriate footwear, ensure paddles and other trip hazards are out of the way. | Y |   |
-| Other traffic on river            | Whole group    | collisions or reputation damage | Brief members on rules of the road, and good etiquette | Y |  | 
-| Fisherfolk                        | Whole group    | harm from hooks, reputation damage | Brief members to stay away even when it is hard to see lines out | Y |  |
-| Swans                             | Whole group    | Safety brief, avoid swans | Y | | 
-| Entrapment during capsize         | Whole group    | Coaches to run through capsize drill. <br />Equipment regularly maintained<br />Staff to check students and equipment before launching | Y | Participants must be at competent level for activity.| 
-| Hypothermia                       | Whole group    | Advise on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early | Y | |
-| Pollution and water Quality       | Whole group    | Safety brief re Weils disease and advice to bath after paddling | Y | Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
-|Entrapment under pontoon           | Drowining      | wear bouyancy aid when on pontoon or on water | | avoid overcrowding on pontoon, consider placing assistants (ideally FRST trained) on pontoon during launch and recovery |
+
+
+
+| Hazard             |   Risk |  Controls | 
+|-----------------------            |--------|-----------|
+| Injury handling boats onto water  | Manual Handling    | Members to be briefed on safe handling before moving any boats. Encourage teamwork, move boats before people get changed.|
+| Slips, trips, and falls           | Injury from fall   | Clean pontoon and steps, safety brief, advise members on appropriate footwear, ensure paddles and other trip hazards are out of the way. |
+| Fisherfolk                        | Entaglement/ reputation   | Brief members to stay away even when it is hard to see lines out, encourage communication when lines seen|
+| Swans                             | Attack - injury to paddler or swan    | Safety brief, avoid swans, encourage communication | 
+| Entrapment during capsize         | Drowning/ water ingestion | Coaches to run through capsize drill. <br />Equipment regularly maintained <br /> Participants must be at competent level for activity.| 
+| Cold                        | Hypothermia   | Advise on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early <br /> Limit intentional capsizes in cold conditions |
+| Pollution and water Quality       | Whole group    | Safety brief re Weils disease and advice to bathe after paddling | <br /> Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
+
+

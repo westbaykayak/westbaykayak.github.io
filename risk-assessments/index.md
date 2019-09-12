@@ -37,6 +37,6 @@ This would include the risks generic to the type of  paddlesport undertaken in r
 ## Club Assessments ##
 
  * [River Brit](./river-brit-risk-assessment)
- * [River Brit Basin](./river-brit-basin) for sessions limited to the bit of the river nearest the boathouse
+ * [West Bay Sea Kayak](./west-bay-sea-risk-assessment) 
  * [Swimming Pool](./swimming-pool-risk-assessment) for sessions limited to the bit of the river nearest the boathouse
 
