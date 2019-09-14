@@ -1,6 +1,5 @@
 # Risk Assessment : West Bay Sea Kayaking #
 
-## DRAFT : Document pending Committee review ##
 
 West Bay Launching on the beach and paddling in ay direction for the duration of a normal 2 hour session.
 
@@ -46,3 +45,7 @@ NB Currently the club does not have a qualified leader and paddlers should be ma
 | loss of Visibility | Loss of ability to return | If fog / rain causes a loss of visibilty head back to shore promptly using compass <br /> Leader to check sunset times & return to shore before darkness falls (on a good day this may be after sunset but during civil twighlight) |
 | Medical | Stroke, heart attack, dislocation, sprain, etc - away from help | leader to be first aiud qualified and carry first aid kit, use VHF / phone to call for help if needed, return to shore |
 
+
+Approved by Committee 12/09/19
+
+Review due by 12/09/20 

@@ -1,6 +1,5 @@
 # Risk Assessment Swimming Pool #
 
-## DRAFT : Document pending Committee review ##
 
 Club sessions in the swimming pool are a great time to practice rolling and other skills in a warm and relatively safe environment.
 
@@ -41,3 +40,7 @@ Club sessions in the swimming pool are a great time to practice rolling and othe
  * Watch out for each other - help anyone in trouble
  * Point out first aiders
 
+
+Approved by Committee 12/09/19
+
+Review due by 12/09/20
