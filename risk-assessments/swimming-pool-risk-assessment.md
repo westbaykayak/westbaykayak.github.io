@@ -14,7 +14,7 @@ Club sessions in the swimming pool are a great time to practice rolling and othe
 | Entrapment      | Drowning      | Coaches to run through capsize drill. <br />Equipment regularly maintained<br /> Participants must be at competent level for activity.     | 
 | Contamination   | Illness to pool users     | Ensure boats are adequately cleaned before use, care take when bringing boats in/out of pool |
 | Broken Tiles    | Injury to subsequent pool users   | Safety brief to warn users not to hit tiles with paddles (care during rolling and games). Report any new damage, take care on existing damage |
-| Overcrowding    | Collision     |  Limit numbers of boats to manageble levels | 
+| Overcrowding    | Collision     |  Limit numbers of boats to manageable levels | 
 
 
 
