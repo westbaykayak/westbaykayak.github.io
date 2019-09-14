@@ -19,7 +19,7 @@ Beyond the first bend there are sections where egress is impossible/difficult an
 | Swans                             | Attack - injury to paddler or swan    | Safety brief, avoid swans, encourage communication | 
 | Entrapment during capsize         | Drowning/ water ingestion | Coaches to run through capsize drill. <br />Equipment regularly maintained <br /> Participants must be at competent level for activity.| 
 | Cold                        | Hypothermia   | Advise on the correct clothing to wear. <br />Adjustment to clothing as required<br /> Cold paddlers to finish session early <br /> Limit intentional capsizes in cold conditions |
-| Pollution and water Quality       | Whole group    | Safety brief re Weils disease and advice to bathe after paddling | <br /> Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
+| Pollution and water Quality       | Whole group    | Safety brief re Weils disease and advice to bathe after paddling  <br /> Risks higher in spate conditions.<br /> Avoid intentional capsizes in poor conditions |
 
 Approved by Committee 12/09/19
 
